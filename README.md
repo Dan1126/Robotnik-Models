@@ -1,3 +1,3 @@
-# Robotnik-Models
+# Robotnik Automation Robot Model Files for Gazebo
 
-Gazebo models
+Obtained and edited from https://github.com/RobotnikAutomation 
