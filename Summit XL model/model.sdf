@@ -20,7 +20,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/daniel/catkin/src/summit_xl_common/summit_xl_description/meshes/bases/summit_xl_chassis_collision.dae</uri>
+            <uri>model://summit_xl/meshes/bases/summit_xl_chassis_collision.dae</uri>
           </mesh>1
         </geometry>
         <surface>
@@ -39,7 +39,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/daniel/catkin/src/robotnik_sensors/meshes/axis_p5512.stl</uri>
+            <uri>model://summit_xl/meshes/axis_p5512.stl</uri>
           </mesh>
         </geometry>
         <surface>
@@ -66,7 +66,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/daniel/catkin/src/robotnik_sensors/meshes/antenna_3GO16.stl</uri>
+            <uri>model://summit_xl/meshes/antenna_3GO16.stl</uri>
           </mesh>
         </geometry>
         <surface>
@@ -125,7 +125,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/daniel/catkin/src/summit_xl_common/summit_xl_description/meshes/bases/summit_xl_chassis.dae</uri>
+            <uri>model://summit_xl/meshes/bases/summit_xl_chassis.dae</uri>
           </mesh>
         </geometry>
       </visual>
@@ -134,7 +134,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/daniel/catkin/src/robotnik_sensors/meshes/axis_p5512.stl</uri>
+            <uri>model://summit_xl/meshes/axis_p5512.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -149,7 +149,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/daniel/catkin/src/robotnik_sensors/meshes/antenna_3GO16.stl</uri>
+            <uri>model://summit_xl/meshes/antenna_3GO16.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -164,7 +164,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/daniel/catkin/src/robotnik_sensors/meshes/hokuyo_utm_30lx.dae</uri>
+            <uri>model://summit_xl/meshes/hokuyo_utm_30lx.dae</uri>
           </mesh>
         </geometry>
       </visual>
@@ -376,7 +376,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/daniel/catkin/src/summit_xl_common/summit_xl_description/meshes/wheels/rubber_wheel_left.dae</uri>
+            <uri>model://summit_xl/meshes/wheels/rubber_wheel_left.dae</uri>
           </mesh>
         </geometry>
       </visual>
@@ -445,7 +445,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/daniel/catkin/src/summit_xl_common/summit_xl_description/meshes/wheels/rubber_wheel_right.dae</uri>
+            <uri>model://summit_xl/meshes/wheels/rubber_wheel_right.dae</uri>
           </mesh>
         </geometry>
       </visual>
@@ -514,7 +514,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/daniel/catkin/src/summit_xl_common/summit_xl_description/meshes/wheels/rubber_wheel_left.dae</uri>
+            <uri>model://summit_xl/meshes/wheels/rubber_wheel_left.dae</uri>
           </mesh>
         </geometry>
       </visual>
@@ -583,7 +583,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/daniel/catkin/src/summit_xl_common/summit_xl_description/meshes/wheels/rubber_wheel_right.dae</uri>
+            <uri>model://summit_xl/meshes/wheels/rubber_wheel_right.dae</uri>
           </mesh>
         </geometry>
       </visual>
